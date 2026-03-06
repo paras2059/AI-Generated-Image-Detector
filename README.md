@@ -165,7 +165,10 @@ The project also includes **Grad-CAM visualization** to understand which regions
 
 Grad-CAM highlights regions that contain patterns typical of **AI-generated artifacts**.
 
-![Real vs Fake Example](Real%20VS%20Fake.png)
+![Real vs Fake Example](44.jpg)
+
+Grad-CAM visualization showing model attention for real and AI-generated images.  
+The model focuses on artifact-prone regions in generated images while showing more distributed attention in real images.
 
 ---
 
